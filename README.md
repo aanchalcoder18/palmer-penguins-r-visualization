@@ -22,20 +22,13 @@ The goal of this project is to showcase my data visualization skills in R by:
 
 ---
 
-## 📊 Key Visuals
-
-The final visualization highlights the relationship between **flipper length** and **body mass** across penguin species, with annotations to emphasize insights.
-
-![Example plot](path/to/your/screenshot.png)  
-
----
-
 ## 📁 Files in This Repository
 
 | File | Description |
 |------|--------------|
 | `PenguinMarkdown.Rmd` | Main R Markdown file containing all code and explanations |
-| `PenguinMarkdown.html` | Rendered HTML report |
+| `PenguinProject.r` | Original R file - all code |
+| `index.html` | Rendered HTML report |
 | `README.md` | This file, describing the project |
 
 ---
@@ -48,7 +41,12 @@ The final visualization highlights the relationship between **flipper length** a
 
 ---
 
-## 🌐 About the Dataset
+🌐 View the Rendered Project
+👉 [View the full HTML visualization here]('https://aanchalcoder18.github.io/palmer-penguins-r-visualization/')
+
+---
+
+## 🧠 About the Dataset
 The **Palmer Penguins** dataset was collected by Dr. Kristen Gorman and the Palmer Station, Antarctica LTER.  
 It’s widely used as an educational dataset for practicing data analysis and visualization.
 
