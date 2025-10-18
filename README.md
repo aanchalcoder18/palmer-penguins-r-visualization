@@ -41,8 +41,9 @@ The goal of this project is to showcase my data visualization skills in R by:
 
 ---
 
-🌐 View the Rendered Project
-👉  [View the full HTML visualization here](https://aanchalcoder18.github.io/palmer-penguins-r-visualization/)
+### 🌐 View the Rendered Project
+[![View Project](https://img.shields.io/badge/View_Project-Click_Here-blue?style=for-the-badge)](https://aanchalcoder18.github.io/palmer-penguins-r-visualization/)
+
 
 ---
 
