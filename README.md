@@ -53,4 +53,4 @@ It’s widely used as an educational dataset for practicing data analysis and vi
 
 ---
 
-✨ *Created by Aanchal as part of my R portfolio projects.*
+✨ *Created by Aanchal as part of my Data Analytics portfolio projects.*
